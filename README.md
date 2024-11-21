@@ -1,4 +1,4 @@
-° 👋 Hi, I’m @LRuan127;°🌱 Javascript;° 💞️ I’m collaborating as a Fullstack Developer Freelancer;° 👀 Open to work° 📬 How to reach me: email - caped.2022123isinf0043@aluno.ifpi.edu.br;° 💡 English | Portuguese | Spanish 
+° 👋 Hi, I’m @LRuan127;°🌱 Javascript;° 💞️ I’m collaborating as a Fullstack Developer Freelancer;° 👀 Open to work° 📬 How to reach me: email - ruandavidnered123@gmail.com;° 💡 English | Portuguese 
 
 
 <!---
