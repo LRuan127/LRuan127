@@ -1,4 +1,4 @@
-° 👋 Hi, I’m @LRuan127;°🌱 Javascript;° 💞️ I’m collaborating as a Fullstack Developer Freelancer;° 👀 Open to work° 📬 How to reach me: email - ruandavidnered123@gmail.com;° 💡 English | Portuguese 
+° Studying a Bachelor's Degree in Computer Science (1th/8th semester) at State University of Piauí (UESPI), passionate about  tech education,  and taking ideas off paper through code.
 
 
 <!---
