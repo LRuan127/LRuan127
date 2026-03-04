@@ -1,4 +1,4 @@
-° Studying a Bachelor's Degree in Computer Science (1th/8th semester) at State University of Piauí (UESPI), passionate about  tech education,  and taking ideas off paper through code.
+° Studying a Bachelor's Degree in Computer Science (2th/8th semester) at State University of Piauí (UESPI), passionate about  tech education,  and taking ideas off paper through code.
 
 
 <!---
